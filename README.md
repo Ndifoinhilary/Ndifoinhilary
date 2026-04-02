@@ -20,30 +20,35 @@ I focus on writing **clean, maintainable code**, and designing systems that are 
 ---
 
 ## 🛠️ Tech Stack
-
 ### Backend
-- Java (Spring Boot)
-- Python (Django)
-- REST APIs
-- JWT Authentication
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-092E20?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend
-- React (TypeScript)
-- Angular (learning)
-- Flutter (mobile apps)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Database
-- MySQL
-- PostgreSQL
-- H2 (testing)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![H2](https://img.shields.io/badge/H2-000000?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### Tools & DevOps
-- Git & GitHub
-- Docker (learning)
-- VPS Deployment
-- Flyway (DB migrations)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-CC0200?style=for-the-badge&logo=aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-CC0200?style=for-the-badge&logo=jenkins&logoColor=white)
+![K8s](https://img.shields.io/badge/K8s-CC0200?style=for-the-badge&logo=k8s&logoColor=white)
 
----
 
 ## 📌 Featured Projects
 

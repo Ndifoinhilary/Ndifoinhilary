@@ -26,6 +26,7 @@ I focus on writing **clean, maintainable code**, and designing systems that are 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-092E20?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-092E20?style=for-the-badge&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/-3C3C3D?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
